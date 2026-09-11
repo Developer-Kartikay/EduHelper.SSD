@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">EduHelper Student Support Desk logo</title>
+  <desc id="desc">A circular logo with an abstract spark and open book.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5B21B6"/><stop offset="1" stop-color="#1D4ED8"/></linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="244" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+  <path fill="#fff" d="M256 105c-12 27-32 46-60 58 28 12 48 31 60 58 12-27 32-46 60-58-28-12-48-31-60-58Z"/>
+  <path fill="#D1FAE5" d="M256 178c-20 0-36 16-36 36s16 36 36 36 36-16 36-36-16-36-36-36Z"/>
+  <path fill="#fff" d="M256 276c-52-53-112-52-148-34v105c46-22 104-8 148 34 44-42 102-56 148-34V242c-36-18-96-19-148 34Zm-17 70c-26-15-54-23-86-23v-47c31 0 60 9 86 27v43Zm34 0v-43c26-18 55-27 86-27v47c-32 0-60 8-86 23Z"/>
+  <path fill="#D1FAE5" d="M256 270c-19-25-40-40-65-48 12-33 36-54 65-62 29 8 53 29 65 62-25 8-46 23-65 48Z"/>
+</svg>

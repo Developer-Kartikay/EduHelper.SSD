@@ -1,0 +1,6 @@
+{
+  "name": "eduhelper-ssd",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": { "resend": "^4.0.0" }
+}
